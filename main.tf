@@ -1,5 +1,5 @@
 module "eks_cluster" {
-  source = "../../../terraform-modules/eks-cluster/"
+  source = "github.com/apgaua/terraform-modules//eks-cluster"
   # GENERAL SETTINGS
   project_name = var.project_name
   region       = var.region

@@ -1,4 +1,4 @@
-# EKS Course repository
+# EKS Fargate and Node Groups deployment
 
 ## Commands
 
@@ -17,4 +17,4 @@
 | Project | Priority | URL | Description |
 |---------|----------|-----|-------------|
 | EKS Networking | 1 | https://github.com/apgaua/eks-networking | VPC structure to deploy EKS |
-| This one | 2 | https://github.com/apgaua/eks-fullfargate | EKS with node groups and Fargate |
+| This one | 2 | https://github.com/apgaua/eks-fargate | EKS with node groups and Fargate |
